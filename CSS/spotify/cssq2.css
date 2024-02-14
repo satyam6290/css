@@ -1,0 +1,23 @@
+#outer-div{
+     height: 170px;
+     width: 90px;
+     border: 2px solid black;
+     align-content: center;
+}
+.inner{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	margin: 3px;
+	align-content: center;
+}
+#red{
+	background: red;
+}
+#blue{
+	background: blue;
+
+}
+#green{
+	background: green;
+}
